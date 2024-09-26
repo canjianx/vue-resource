@@ -3,6 +3,7 @@
 The plugin for [Vue.js](http://vuejs.org) provides services for making web requests and handle responses using a [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or JSONP.
 
 # add new line test
+# add new line test 1
 
 ## Features
 
